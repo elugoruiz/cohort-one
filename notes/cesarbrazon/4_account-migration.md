@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Ethereum has two types of accounts: The external owner account (EOAs) and contract accounts.
+Ethereum has two types of accounts: The external owner accounts (EOAs) and contract accounts.
 
 EOAs have a private key: Having the private key means control over access to funds. In fact, the EOAs are the only type of accounts that can initiate a transaction in Ethereum, and the reason is that in order to send a transaction, the account needs to sign it with a private key. Currently, Ethereum uses ECDSA (Elliptic Curve Cryptographic Signature Algorithm) to sign the transactions.
 
